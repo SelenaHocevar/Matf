@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matf/static/css/main.073c9b0a.css",
+    "main.js": "/matf/static/js/main.9aeeeb08.js",
+    "static/js/787.ff456cef.chunk.js": "/matf/static/js/787.ff456cef.chunk.js",
+    "index.html": "/matf/index.html",
+    "main.073c9b0a.css.map": "/matf/static/css/main.073c9b0a.css.map",
+    "main.9aeeeb08.js.map": "/matf/static/js/main.9aeeeb08.js.map",
+    "787.ff456cef.chunk.js.map": "/matf/static/js/787.ff456cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9aeeeb08.js"
+  ]
+}
